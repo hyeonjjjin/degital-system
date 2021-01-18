@@ -1,0 +1,21 @@
+C:/dd/prj_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\dd\prj_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity prj_tb
+-- Compiling architecture tb_arch of prj_tb
+
+} {} {}} C:/dd/prj_code.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\dd\prj_code.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALU
+-- Compiling architecture alu_case of ALU
+
+} {} {}}
